@@ -7,8 +7,8 @@ The Simon Game is a classic electronic memory game that challenges players to re
 ## How It Works
 
 1. **Gameplay**:
-   - The game board consists of four buttons, each with a different color (typically red, green, blue, and yellow) and corresponding sound.
-   - The game begins by lighting up one of the buttons and playing its sound.
+   - The game board consists of four buttons, each with a different color (typically red, green, blue, and yellow).
+   - The game begins by lighting up one of the buttons.
    - The player must press the lit button to repeat the sequence.
    - With each round, the game adds an additional step to the sequence.
    - The player must remember and reproduce the entire sequence in the correct order.
